@@ -1,0 +1,158 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+    text-align:center;
+}
+
+a{
+    padding:0% 3%;
+}
+
+#title{
+    background-color:#fd647b;
+    color:#fff;
+}
+
+.btn{
+    margin-top:5%;
+}
+
+.button-contact{
+    padding-top:10px;
+    margin-top:10px;
+    padding-bottom:0;
+    margin-bottom:10px;
+    text-align:center;
+}
+
+.carousel-button{
+    color:black;
+}
+
+.contact{
+    padding:4% 0%
+}
+
+.copyright{
+    color:black;
+    padding-top:2rem;
+}
+
+.contact-icon{
+    color:white;
+}
+
+.contact-head{
+    font-size:1rem;
+    font-family:'Ubuntu',sans-serif;
+    padding-bottom:1rem;
+}
+
+.card{
+    background-color:#e75c78;
+    border-color: #e75c78;
+
+}
+
+.row{
+    text-align:center;
+    margin:0;
+    padding:0% 5%;
+}
+
+.Hobbies,.Description,.Education,.Skills{
+    padding:7% 30%;
+}
+
+.carousel-item{
+    padding:7% 30%;
+}
+
+.carousel-button{
+    background-color: black;
+}
+
+
+.Hobbies,.Education,.contact{
+    background-color:#e75c78;
+    color:#fff;
+    font-size:medium;
+}
+
+.heading{
+    font-size:3.5rem;
+    font-family: 'Ubuntu', sans-serif;
+    padding-bottom:1.5rem;
+}
+
+.heading-project{
+    font-size:3.5rem;
+    font-family: 'Ubuntu', sans-serif;
+    padding-bottom:1.5rem;
+}
+
+.list-icon{
+    padding:0 20px;
+}
+
+.Myimage{
+    height:25%;
+    width:24%;
+    border-radius:100%;
+    margin-bottom:3rem;
+}
+
+.Name{
+    font-family: 'Allura', cursive;
+    font-size:15rem;
+    padding-top:8%;
+    
+}
+
+.nav-item{
+    padding:5px 10px;
+    font-size:1.1rem;
+}
+
+.profession{
+    font-family:'Times New Roman', Times, serif;
+    font-size:3rem;
+}
+
+.project-icon{
+    color:black;
+}
+
+.project-link{
+    color:#fff;
+    font-style:none;
+}
+
+.progress{
+    margin:15px 0;
+    height:30px;
+}
+
+.skill-first{
+    margin-top:15px;
+    height:30px;
+}
+
+.skill{
+    margin:30px 0;
+    height:30px;
+}
+
+.title-img{
+    width:5rem;
+    height:5rem;
+    margin:5% 5%;
+    
+}
+
+.text{
+    font-size:1.25rem;
+}
+
+.unorder-list{
+    list-style-type:none;
+}
